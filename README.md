@@ -28,7 +28,7 @@ O projeto está organizado da seguinte forma:
 
 ```
 nikel/
-├── pulic/
+├── public/
 │   ├── assets/
 │   ├── css/
 │   │   └── styles.css
@@ -48,9 +48,9 @@ Por ser um projeto front-end estático, não há necessidade de um servidor comp
 
 1.  **Clone o repositório** (ou baixe os arquivos do projeto).
 
-2.  **Navegue até a pasta `pulic`**:
+2.  **Navegue até a pasta `public`**:
     ```bash
-    cd nikel/pulic
+    cd nikel/public
     ```
 
 3.  **Abra o arquivo `index.html`** no seu navegador de preferência (Google Chrome, Firefox, etc.).
