@@ -4,7 +4,7 @@ O Nikel é uma aplicação web front-end desenvolvida para ajudar os usuários a
 
 A aplicação utiliza o `localStorage` do navegador para persistir os dados dos usuários e suas transações, simulando um banco de dados local.
 
-![tela principal](./public/assets/images/image.png)
+![tela principal](./docs/assets/images/image.png)
 
 ## ✨ Funcionalidades
 
@@ -28,7 +28,7 @@ O projeto está organizado da seguinte forma:
 
 ```
 nikel/
-├── public/
+├── docs/
 │   ├── assets/
 │   ├── css/
 │   │   └── styles.css
@@ -48,9 +48,9 @@ Por ser um projeto front-end estático, não há necessidade de um servidor comp
 
 1.  **Clone o repositório** (ou baixe os arquivos do projeto).
 
-2.  **Navegue até a pasta `public`**:
+2.  **Navegue até a pasta `docs`**:
     ```bash
-    cd nikel/public
+    cd nikel/docs
     ```
 
 3.  **Abra o arquivo `index.html`** no seu navegador de preferência (Google Chrome, Firefox, etc.).
