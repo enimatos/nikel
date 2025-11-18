@@ -4,7 +4,7 @@ O Nikel é uma aplicação web front-end desenvolvida para ajudar os usuários a
 
 A aplicação utiliza o `localStorage` do navegador para persistir os dados dos usuários e suas transações, simulando um banco de dados local.
 
-![tela principal](image.png)
+![tela principal](./public/assets/images/image.png)
 
 ## ✨ Funcionalidades
 
